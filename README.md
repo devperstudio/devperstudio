@@ -32,7 +32,7 @@ Web • Mobile • Fintech • Automation
 - 💳 Expert in **Payment Gateways, Wallet APIs & Transaction Automation**
 - 🧩 Backend experience with **PHP (Laravel)**, **Go (Chi, Echo)** & **Node.js (Express.js)**
 - 🗄️ Database expertise: **MySQL & PostgreSQL**
-- 🌐 Web development using **Next.js** & **React**
+- 🌐 Web development using **Next.js** & **React** & **Tailwind css**
 - 📱 Mobile development with **Android (Kotlin & Java)**, **Flutter (Dart)** & **React Native (Expo)**
 - 🌱 Currently learning **AI frameworks, PyTorch & Python**
 - ⚡ Passionate about solving **real production-level problems**
