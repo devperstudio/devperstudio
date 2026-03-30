@@ -30,9 +30,10 @@ Web • Mobile • Fintech • Automation
 - 👨‍💻 Web & App Developer focused on **Fintech, Automation & Bots**
 - 🏢 Founder of **DevPerStudio**
 - 💳 Expert in **Payment Gateways, Wallet APIs & Transaction Automation**
-- 🧩 Backend experience with **PHP (Laravel)**, **Go (Chi, Echo)** & **Node.js (Express.js)**
+- 🧩 Backend experience with **PHP (Laravel)**, **Go (Chi, Echo)** & **(Express.js)**
+- 🗄️ Database expertise: with **MySQL & PostgreSQL**
 - 🌐 Web development using **Next.js** & **React**
-- 📱 Mobile development with **React Native (Expo)** & **Android (Java)**
+- 📱 Mobile development with **Android (kotlin java)** & **Flutter (Dart)** & **React Native (Expo))**
 - 🌱 Currently learning **AI frameworks, PyTorch & Python**
 - ⚡ Passionate about solving **real production-level problems**
 
