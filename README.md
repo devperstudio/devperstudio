@@ -30,10 +30,10 @@ Web • Mobile • Fintech • Automation
 - 👨‍💻 Web & App Developer focused on **Fintech, Automation & Bots**
 - 🏢 Founder of **DevPerStudio**
 - 💳 Expert in **Payment Gateways, Wallet APIs & Transaction Automation**
-- 🧩 Backend experience with **PHP (Laravel)**, **Go (Chi, Echo)** & **(Express.js)**
-- 🗄️ Database expertise: with **MySQL & PostgreSQL**
+- 🧩 Backend experience with **PHP (Laravel)**, **Go (Chi, Echo)** & **Node.js (Express.js)**
+- 🗄️ Database expertise: **MySQL & PostgreSQL**
 - 🌐 Web development using **Next.js** & **React**
-- 📱 Mobile development with **Android (kotlin java)** & **Flutter (Dart)** & **React Native (Expo))**
+- 📱 Mobile development with **Android (Kotlin & Java)**, **Flutter (Dart)** & **React Native (Expo)**
 - 🌱 Currently learning **AI frameworks, PyTorch & Python**
 - ⚡ Passionate about solving **real production-level problems**
 
@@ -58,10 +58,13 @@ Web • Mobile • Fintech • Automation
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Golang"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="python"/>
 </p>
 
 ---
@@ -69,9 +72,12 @@ Web • Mobile • Fintech • Automation
 ### ⚙ Frameworks & Libraries
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" title="Laravel"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="Go (Chi, Echo)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter"/>
+
 </p>
 
 > **Go Frameworks:** Chi · Echo (production REST APIs & microservices)
@@ -80,17 +86,18 @@ Web • Mobile • Fintech • Automation
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React Native / Expo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" title="Android (Kotlin)"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter (Dart)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" title="Android (Java)"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React Native / Expo"/>
 </p>
 
 ---
 
 ### 🗄 Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
 </p>
 
 ---
@@ -107,7 +114,7 @@ Web • Mobile • Fintech • Automation
 ## 🤝 Let’s Work Together
 
 - 🌐 Web Applications (**Next.js, React, Laravel, Express.js, Go**)
-- 📱 Mobile Apps (**React Native Expo, Android Java**)
+- 📱 Mobile Apps (**React Native Expo, Android (Kotlin & Java), Flutter**)
 - 💰 Payment Gateway & Wallet API
 - 🤖 Automation, Bots & Transaction Systems
 - 🧠 AI-assisted tools
